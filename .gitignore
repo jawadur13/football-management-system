@@ -1,0 +1,15 @@
+# Build artifacts
+target/
+*.jar
+*.war
+*.ear
+
+# IDE files
+.idea/
+*.iml
+
+# Log files
+*.log
+
+# Windows thumbnail cache
+Thumbs.db
